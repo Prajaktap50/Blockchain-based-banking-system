@@ -12,6 +12,8 @@ Each time a new block is generated based on the completion of each block.
 
 
 Problem Statement-Traditional banking systems struggle with security, transparency, and efficiency, which a blockchain-based  banking system aims to resolve using blockchain technology.
+
+
 System Architecture Diagram
 ![image](https://github.com/user-attachments/assets/9d9e4ee6-37ff-48f2-a57f-b0bce67d2efb)
 
