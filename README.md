@@ -18,3 +18,8 @@ System Architecture Diagram
 ![image](https://github.com/user-attachments/assets/9d9e4ee6-37ff-48f2-a57f-b0bce67d2efb)
 
 
+
+International Journal of Scientific Research in Engineering and Management (IJSREM) on Volume 08, Issue 04 April 2024.
+
+Paper Title :        Blockchain based Banking System Using Ethereum
+https://ijsrem.com/download/blockchain-based-banking-system-using-ethereum/
